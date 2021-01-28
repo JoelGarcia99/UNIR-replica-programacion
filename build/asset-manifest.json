@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/UNIR-replica-programacion/static/css/main.98c225bd.chunk.css",
-    "main.js": "/UNIR-replica-programacion/static/js/main.f88761b9.chunk.js",
-    "main.js.map": "/UNIR-replica-programacion/static/js/main.f88761b9.chunk.js.map",
+    "main.js": "/UNIR-replica-programacion/static/js/main.62774162.chunk.js",
+    "main.js.map": "/UNIR-replica-programacion/static/js/main.62774162.chunk.js.map",
     "runtime-main.js": "/UNIR-replica-programacion/static/js/runtime-main.52ad4c25.js",
     "runtime-main.js.map": "/UNIR-replica-programacion/static/js/runtime-main.52ad4c25.js.map",
     "static/js/2.11d1b477.chunk.js": "/UNIR-replica-programacion/static/js/2.11d1b477.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.52ad4c25.js",
     "static/js/2.11d1b477.chunk.js",
     "static/css/main.98c225bd.chunk.css",
-    "static/js/main.f88761b9.chunk.js"
+    "static/js/main.62774162.chunk.js"
   ]
 }
