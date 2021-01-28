@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const ContentTable = ({weeks, start=0}) => {
+const ContentTable = ({weeks}) => {
     return (
         <table className="table table-bordered">
             <thead>

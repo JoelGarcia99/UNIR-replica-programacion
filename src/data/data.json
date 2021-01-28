@@ -224,6 +224,14 @@
                 ]
             },
             "eventos":["Test - Tema 10"]
+        },
+        {
+            "semana": {
+                "fecha": "15-feb-2021 - 19-feb-2021"
+            },
+            "tema": {
+                "nombre": "Semana de exámenes"
+            }
         }
     ]
 }
