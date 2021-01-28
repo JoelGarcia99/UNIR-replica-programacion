@@ -19,7 +19,7 @@ export const Description = () => {
                 <br/><br/>Bootstrap fue utilizado como framework CSS y de él se obtuvieron los componentes de la barra de 
                 navegación así como la barra de estado de la semana en la que se está.<br/>
                 <img 
-                    src="./assets/barrasuperior.jpg" 
+                    src="https://joelgarcia99.github.io/UNIR-replica-programacion/assets/barrasuperior.jpg" 
                     alt="barra superior"
                 />
                 En este caso, tanto la barra superior como la de la semana en la que se está observando la planificación 
@@ -33,7 +33,7 @@ export const Description = () => {
             <br/>
             <div className="row">
                 <img
-                    src="./assets/estructura.jpg"
+                    src="https://joelgarcia99.github.io/UNIR-replica-programacion/assets/estructura.jpg"
                     alt="estructura del proyecto"
                     className="col-md-4"
                 />
@@ -51,7 +51,7 @@ export const Description = () => {
                     a continuación. Las llaves de <i>subtemas, eventos</i> y <i>actividades</i> son opcionales,
                     <br/>
                     <img 
-                        src="./assets/data.jpg"
+                        src="https://joelgarcia99.github.io/UNIR-replica-programacion/assets/data.jpg"
                         alt="data"
                     />
                     El acceso a estos datos se da mediante un método definido en la carpeta <b>helpers</b>, al 
