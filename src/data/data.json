@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "semana": {
+                "fecha": "19-oct-2020 - 23-oct-2020"
+            },
+            "tema": {
+                "nombre": "Lenguajes de marcado HTML 5",
+                "subtemas": ["¿Cómo estudiar este tema?", "Introducción", "Repaso HTML"]
+            },
+            "eventos": ["Asistencia a dos clases en directo", "test - tema 01"]
+        },
+        {
+            "semana": {
+                "fecha": "26-oct-2020 - 30-oct-2020"
+            },
+            "tema": {
+                "nombre": "Introducción a hojas de estilo CSS",
+                "subtemas": ["¿Cómo estudiar este tema?", "Introducción", "Primeros pasos con CSS"]
+            },
+            "actividades": ["Trabajo: Crea tu blog con un generador de sitios estáticos"],
+            "eventos": ["Test - Tema 02"]
+        }
+    ]
+}
