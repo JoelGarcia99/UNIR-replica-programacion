@@ -1,12 +1,12 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { HashRouter as BrowserRouter, Route, Switch } from 'react-router-dom';
 import { NavBar } from '../components/navbar/NavBar';
 import { Description } from '../pages/Description';
 import { Programming } from '../pages/Programming';
 
 export const Routes = () => {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <NavBar />
             <Switch>
                 <Route exact path="/description" component={Description} />
