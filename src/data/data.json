@@ -5,8 +5,14 @@
                 "fecha": "19-oct-2020 - 23-oct-2020"
             },
             "tema": {
-                "nombre": "Lenguajes de marcado HTML 5",
-                "subtemas": ["¿Cómo estudiar este tema?", "Introducción", "Repaso HTML"]
+                "nombre": "Tema 1. Lenguajes de marcado HTML 5",
+                "subtemas": [
+                    "1.1. ¿Cómo estudiar este tema?", 
+                    "1.2. Introducción", 
+                    "1.3. Repaso HTML",
+                    "1.4. Nuevos elementos HTML 5",
+                    "1.5. Formularios: nuevos controles"
+                ]
             },
             "eventos": ["Asistencia a dos clases en directo", "test - tema 01"]
         },
@@ -15,11 +21,209 @@
                 "fecha": "26-oct-2020 - 30-oct-2020"
             },
             "tema": {
-                "nombre": "Introducción a hojas de estilo CSS",
-                "subtemas": ["¿Cómo estudiar este tema?", "Introducción", "Primeros pasos con CSS"]
+                "nombre": "Tema 2. Introducción a hojas de estilo CSS",
+                "subtemas": [
+                    "2.1. ¿Cómo estudiar este tema?", 
+                    "2.2. Introducción", 
+                    "2.3. Primeros pasos con CSS",
+                    "2.4. Introducción a CSS3"
+                ]
             },
             "actividades": ["Trabajo: Crea tu blog con un generador de sitios estáticos"],
             "eventos": ["Test - Tema 02"]
+        },
+        {
+            "semana": {
+                "fecha": "02-nov-2020 - 06-nov-2020"
+            },
+            "tema": {
+                "nombre": "Tema 3. Lenguaje script de navegador: JavaScript",
+                "subtemas": [
+                    "3.1. ¿Cómo estudiar este tema?", 
+                    "3.2. Introducción"
+                ]
+            }
+        },
+        {
+            "semana": {
+                "fecha": "09-nov-2020 - 13-nov-2020"
+            },
+            "tema": {
+                "nombre": "Tema 3. Lenguaje script de navegador: JavaScript",
+                "subtemas": [
+                    "3.3. DOM", 
+                    "3.4. Eventos"
+                ]
+            }
+        },
+        {
+            "semana": {
+                "fecha": "16-nov-2020 - 20-nov-2020"
+            },
+            "tema": {
+                "nombre": "Tema 3. Lenguaje script de navegador: JavaScript",
+                "subtemas": [
+                    "3.5. JQuery"
+                ]
+            }
+        },
+        {
+            "semana": {
+                "fecha": "23-nov-2020 - 27-nov-2020"
+            },
+            "tema": {
+                "nombre": "Tema 3. Lenguaje script de navegador: JavaScript",
+                "subtemas": [
+                    "3.6. Ajax"
+                ]
+            },
+            "actividades":["Trabajo: Interacción con un servidor"],
+            "eventos":["Test - Tema 03"]
+        },
+        {
+            "semana": {
+                "fecha": "30-nov-2020 - 04-dic-2020"
+            },
+            "tema": {
+                "nombre": "Semana de repaso"
+            }
+        },
+        {
+            "semana": {
+                "fecha": "07-dic-2020 - 11-dic-2020"
+            },
+            "tema": {
+                "nombre": "Tema 4. Concepto de la programación orientada a componentes",
+                "subtemas": [
+                    "4.1. ¿Cómo estudiar este tema?",
+                    "4.2. Introducción",
+                    "4.3. Contexto",
+                    "4.4. Componentes e interfaces",
+                    "4.5. Estados de un componente"
+                ]
+            },
+            "eventos": [
+                "Test - Tema 04",
+                "Laboratorio #1: Tecnologías AJAX"
+            ]
+        },
+        {
+            "semana": {
+                "fecha": "14-dic-2020 - 18-dic-2020"
+            },
+            "tema": {
+                "nombre": "Tema 5. Arquitectura de componentes",
+                "subtemas": [
+                    "5.1. ¿Cómo estudiar este tema?",
+                    "5.2. Introducción",
+                    "5.3. Arquitecturas actuales",
+                    "5.4. Integración y despliegue de componentes"
+                ]
+            },
+            "eventos": [
+                "Test - Tema 05"
+            ]
+        },
+        {
+            "semana": {
+                "fecha": "04-ene-2021 - 08-ene-2021"
+            },
+            "tema": {
+                "nombre": "Tema 6. Framework Front-End:  Bootstrap",
+                "subtemas": [
+                    "6.1. ¿Cómo estudiar este tema?",
+                    "6.2. Introducción",
+                    "6.3. Diseño con rejilla",
+                    "6.4. Formularios",
+                    "6.5. Componentes",
+                    "6.6. Referencias bibliográficas"
+                ]
+            },
+            "actividades": [
+                "Trabajo: Recreación de un sitio web basado en componentes"
+            ],
+            "eventos": [
+                "Test - Tema 06"
+            ]
+        },
+        {
+            "semana": {
+                "fecha": "11-ene-2021 - 15-ene-2021"
+            },
+            "tema": {
+                "nombre": "Tema 7. Modelo vista controlador",
+                "subtemas": [
+                    "7.1. ¿Cómo estudiar este tema?",
+                    "7.2. Métodos de desarrollo Web",
+                    "7.3. Patrón de diseño: MVC"
+                ]
+            },
+            "eventos": [
+                "Test - Tema 07"
+            ]
+        },
+        {
+            "semana": {
+                "fecha": "18-ene-2021 - 22-ene-2021"
+            },
+            "tema": {
+                "nombre": "Tema 8. Tecnologías Grid de la información",
+                "subtemas": [
+                    "8.1. ¿Cómo estudiar este tema?",
+                    "8.2. Introducción",
+                    "8.3. Incremento de recursos en computación",
+                    "8.4. Concepto de tecnología Grid"
+                ]
+            },
+            "eventos": [
+                "Test - Tema 08"
+            ]
+        },
+        {
+            "semana": {
+                "fecha": "25-ene-2021 - 29-ene-2021"
+            },
+            "tema": {
+                "nombre": "Tema 9. Arquitectura orientada a servicios",
+                "subtemas": [
+                    "9.1. ¿Cómo estudiar este tema?",
+                    "9.2. Introducción",
+                    "9.3. SOA y servicios Web"
+                ]
+            },
+            "eventos": [
+                "Test - Tema 09",
+                "Laboratorio #2: Creación de un servicio web sencillo"
+            ]
+        },
+        {
+            "semana": {
+                "fecha": "01-feb-2021 - 05-feb-2021"
+            },
+            "tema": {
+                "nombre": "Tema 9. Arquitectura orientada a servicios",
+                "subtemas": [
+                    "9.4. Topología de un servicio Web",
+                    "9.5. Plataformas para los servicios Web"
+                ]
+            }
+        },
+        {
+            "semana": {
+                "fecha": "08-feb-2021 - 12-feb-2021"
+            },
+            "tema": {
+                "nombre": "Tema 10. Protocolo HTTP",
+                "subtemas": [
+                    "10.1. ¿Cómo estudiar este tema?",
+                    "10.2. Introducción ",
+                    "10.3. Mensajes",
+                    "10.4. Sesiones persistentes",
+                    "10.5. Sistema criptográfico",
+                    "10.6. Funcionamiento del protocolo HTTPS"
+                ]
+            },
+            "eventos":["Test - Tema 10"]
         }
     ]
 }

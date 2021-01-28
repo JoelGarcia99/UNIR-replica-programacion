@@ -21,12 +21,12 @@ const ContentTable = ({weeks, start=0}) => {
                                 {<small>{element["semana"]["fecha"]}</small>}
                             </th>
                             <td scope="row" key={index+"-td-0"}>
-                                <h5>{(index*start+1)+". "+element["tema"]["nombre"]}</h5>
+                                <h5>{element["tema"]["nombre"]}</h5>
                                 <span>
                                     {
                                         (element["tema"]["subtemas"] || []).map((element, key)=>(
                                             <span key={key}>
-                                                {(index*start+1)+"."+(key+1)+". "+element}
+                                                {element}
                                                 <br/>
                                             </span>
                                         ))
